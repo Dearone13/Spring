@@ -11,6 +11,9 @@ public class App
 {
     public static void main( String[] args )
     {
+        /*ApplicationContext es una interfaz central en el framework Spring que
+        se utiliza para acceder a los beans, recursos y funcionalidades de la aplicación Spring. */
+
         ApplicationContext context = new ClassPathXmlApplicationContext("ApplicationContext.xml");
         Vehicle obj = (Vehicle) context.getBean("vehicle");
         obj.drive();
