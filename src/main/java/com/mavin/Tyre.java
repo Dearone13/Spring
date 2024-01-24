@@ -10,7 +10,7 @@ public class Tyre {
     public void setBrand(String brand) {
         this.brand = brand;
     }
-
+    //Esto lo que imprime la instancia cuando se invoca al bean
     @Override
     public String toString() {
         return "Tyre{" +

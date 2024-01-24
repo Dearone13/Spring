@@ -8,6 +8,7 @@
 <p>En el contexto del framework Spring se utiliza para inyectar
 valores a las propiedades de los beans.</p>
 </section>
+
 <section>
 <h3>Funcion de la etiqueta property</h3>
 <ul>
@@ -40,5 +41,6 @@ public class Tyre {
 }
 </pre>
 <h3>Como definimos el archivo XML</h3>
+<a href="https://github.com/Dearone13/Spring/blob/beanproperty/src/main/resources/ApplicationContext.xml">Definición del archivo xml link</a>
 </section>
 </article>
