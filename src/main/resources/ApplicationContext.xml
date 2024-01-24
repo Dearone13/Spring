@@ -12,5 +12,8 @@
     <!--<bean id="vehicle" class="com.mavin.Car"></bean>-->
     <!--Desactivamos el contenedor bean-->
     <!--Le decimos a Spring framwork que existe un componente -->
-    <context:component-scan base-package="com.mavin"></context:component-scan>
+<context:component-scan base-package="com.mavin"></context:component-scan>
+    <bean id="tyre" class="com.mavin.Tyre">
+        <property name="brand" value="MRF"></property>
+    </bean>
 </beans>
