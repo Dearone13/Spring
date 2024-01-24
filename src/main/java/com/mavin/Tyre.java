@@ -3,6 +3,16 @@ package com.mavin;
 public class Tyre {
     private String brand; //brand --> marca
 
+//Inyección de tipo constructor
+
+    public Tyre(String brand) {
+        super();
+        this.brand = brand;
+    }
+
+
+    //Se reliza un inyección por mediod e los setters
+
     public String getBrand() {
         return brand;
     }

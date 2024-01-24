@@ -1,5 +1,5 @@
 <header>
-<h1 style="color:#DC0073">Spring- Propiedades de los Bean</h1>
+<h1 style="color:#DC0073">Spring- Propiedades de los Bean y Inyección de setter y constructor</h1>
 </header>
 <hr>
 <article>
