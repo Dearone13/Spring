@@ -15,4 +15,12 @@ en nuestra configuración de Beans.</p>
 <li>@Service</li>
 </ul>
 </section>
+<section>
+<h3>¿Qué es la etiqueta @Component?</h3>
+<p>Es una anotación para cualquier clase de java que Spring maneje o trate
+como un bean. En otras palabras, la anotación de clase con @Component, le estas
+diciendo al framework de Spring  que una instancia de esa clase debe mantenerce
+en el ApplicationContext.</p>
+<a href="https://medium.com/@AlexanderObregon/understanding-and-implementing-the-component-annotation-in-spring-ca4734118cf8"> Fuente de información</a>
+</section>
 </article>

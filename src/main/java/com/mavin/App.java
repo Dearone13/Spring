@@ -15,7 +15,7 @@ public class App
         se utiliza para acceder a los beans, recursos y funcionalidades de la aplicación Spring. */
 
         ApplicationContext context = new ClassPathXmlApplicationContext("ApplicationContext.xml");
-        Vehicle obj = (Vehicle) context.getBean("car");
+        Vehicle obj = (Vehicle) context.getBean("bike");
         obj.drive();
 
 
