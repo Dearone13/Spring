@@ -17,6 +17,7 @@ public class App
         ApplicationContext context = new ClassPathXmlApplicationContext("ApplicationContext.xml");
 /*        Vehicle obj = (Vehicle) context.getBean("bike");
         obj.drive();*/
+        //Inyección generada desde el constructor
         Tyre t = (Tyre) context.getBean("tyre");
         System.out.println(t);
         // Sin una definicion de property

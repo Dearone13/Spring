@@ -1,5 +1,5 @@
 <header>
-<h1 style="color:#DC0073">Spring- Propiedades de los Bean y Inyección de setter y constructor</h1>
+<h1 style="color:#DC0073">Spring- Propiedades de los Bean(Inyección de setter y constructor)</h1>
 </header>
 <hr>
 <article>
@@ -21,6 +21,18 @@ valores a las propiedades de los beans.</p>
 <h3>Como definimos el archivo XML</h3>
 <a href="https://github.com/Dearone13/Spring/blob/beanproperty/src/main/resources/ApplicationContext.xml">Definición del archivo xml link</a>
 <h3>Petición desde la clase main</h3>
-<a>Clase main</a>
+<a href="https://github.com/Dearone13/Spring/blob/beanproperty/src/main/java/com/mavin/App.java">Clase main</a>
+<p>Las inyecciones anteriores fueron inyecciones de setter.</p>
+</section>
+<section>
+<h2>Inyecciónes de caracter constructor</h2>
+<p>Las inyecciones se pueden realizar desde el constructor para ello modificaremos la estructura de nuestro bean
+del archivo XML, además de generar un constructor en la clase.</p>
+
+<ul>
+<li><a href="https://github.com/Dearone13/Spring/blob/consinject/src/main/resources/ApplicationContext.xml">Configuración del archivo XML.</a></li>
+<li><a href="https://github.com/Dearone13/Spring/blob/consinject/src/main/java/com/mavin/Tyre.java">Clase tyre(Constructor).</a></li>
+<li><a href="https://github.com/Dearone13/Spring/blob/consinject/src/main/java/com/mavin/App.java">Clase main.</a></li>
+</ul>
 </section>
 </article>
