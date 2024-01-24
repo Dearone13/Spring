@@ -20,5 +20,7 @@ valores a las propiedades de los beans.</p>
 <a href="https://github.com/Dearone13/Spring/blob/beanproperty/src/main/java/com/mavin/Tyre.java">Definimos la clase tyre</a>
 <h3>Como definimos el archivo XML</h3>
 <a href="https://github.com/Dearone13/Spring/blob/beanproperty/src/main/resources/ApplicationContext.xml">Definición del archivo xml link</a>
+<h3>Petición desde la clase main</h3>
+<a>Clase main</a>
 </section>
 </article>
