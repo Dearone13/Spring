@@ -35,6 +35,6 @@ System.out.println("Manejo moto");
 de Spring empieza, este va a crear una instancia de la clase contenida en el 
 ApplicationContext</p>
 
-<a href="https://medium.com/@AlexanderObregon/understanding-and-implementing-the-component-annotation-in-spring-ca4734118cf8"> Fuente de información</a>
+<a href="https://medium.com/@AlexanderObregon/understanding-and-implementing-the-component-annotation-in-spring-ca4734118cf8" target="_blank"> Fuente de información</a>
 </section>
 </article>
