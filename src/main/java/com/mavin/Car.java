@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 // Lo definimos como un componente bean sin necesidad de mencionarlo en nuestro arhcivo de xml
 @Component
 public class Car implements Vehicle{
-    //Designo que se se me cree una instancia del objeto tyre
+    //Designo que se se me cree una instancia del objeto tyre y una inyección
     @Autowired
     private Tyre tyre;
 

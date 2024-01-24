@@ -14,6 +14,7 @@ public class App
         /*ApplicationContext es una interfaz central en el framework Spring que
         se utiliza para acceder a los beans, recursos y funcionalidades de la aplicación Spring. */
 
+        //Se define una instancia Car pero el @Autowired nos especifica la inyección en la clase tyre
         ApplicationContext context = new ClassPathXmlApplicationContext("ApplicationContext.xml");
         Car obj = (Car) context.getBean("car");
         obj.drive();
