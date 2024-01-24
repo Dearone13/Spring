@@ -17,29 +17,7 @@ valores a las propiedades de los beans.</p>
 <li>El valor inyectar se define con el atributo (value)</li>
 </ul>
 <h3>Definimos la clase tyre</h3>
-
-<pre>
-package com.mavin;
-
-public class Tyre {
-    private String brand; //brand --> marca
-
-    public String getBrand() {
-        return brand;
-    }
-
-    public void setBrand(String brand) {
-        this.brand = brand;
-    }
-
-    @Override
-    public String toString() {
-        return "Tyre{" +
-                "brand='" + brand + '\'' +
-                '}';
-    }
-}
-</pre>
+<a href="https://github.com/Dearone13/Spring/blob/beanproperty/src/main/java/com/mavin/Tyre.java">Definimos la clase tyre</a>
 <h3>Como definimos el archivo XML</h3>
 <a href="https://github.com/Dearone13/Spring/blob/beanproperty/src/main/resources/ApplicationContext.xml">Definición del archivo xml link</a>
 </section>
