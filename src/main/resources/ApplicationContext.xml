@@ -20,6 +20,6 @@
         <!--Cuando no definimos el tag entonces el valor es nulo-->
 
         <!--Creamos inyección de tipo constructor-->
-        <constructor-arg value="MRF"></constructor-arg>
+        <!--<constructor-arg value="MRF"></constructor-arg>-->
     </bean>
 </beans>
