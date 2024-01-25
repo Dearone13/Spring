@@ -1,5 +1,8 @@
 package com.mavin;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Tyre {
     private String brand; //brand --> marca
 
