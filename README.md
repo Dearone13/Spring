@@ -13,6 +13,9 @@ configuración tediosa del archivo xml.</p>
 <li>Si solo existe un bean de determinado tipo, Spring lo inyectará automáticamente.</li>
 <li>Resuelve e inyecta colaboraciones beans sin necesidad de configuración explícita.</li>
 </ul>
+<h4>Como lo programo:</h4>
+<ul><li><a href="https://github.com/Dearone13/Spring/blob/autowired/src/main/java/com/mavin/Car.java">Clase car con atributo tyre y etiqueta</a></li></ul>
+<ul><li><a href="https://github.com/Dearone13/Spring/blob/autowired/src/main/java/com/mavin/App.java">Clase main</a></li></ul>
+<ul><li><a href="https://github.com/Dearone13/Spring/blob/autowired/src/main/resources/ApplicationContext.xml">Archivo XML</a></li></ul>
 </section>
-
 </article>
