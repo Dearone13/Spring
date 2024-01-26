@@ -28,5 +28,4 @@ en este espacio mencionamos las dependencias.</p>
 4. Package - com.CourseS.demso.web
 </pre>
 <h5>Configuración del proyecto Maven</h5>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/KusqC6J" data-context="false" ><a href="//imgur.com/a/KusqC6J"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</section>
+<blockquote class="imgur-embed-pub" lang="en" data-id="1aJwChH"><a href="https://imgur.com/1aJwChH">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></section>
