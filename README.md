@@ -1,5 +1,5 @@
 <header>
-<h1 style="color:#DC0073">Spring-Inyección de dependencias sin XML</h1>
+<h1 style="color:#DC0073">Spring-Aotación component, sin uso de @Bean</h1>
 </header>
 <article>
 <section>
