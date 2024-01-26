@@ -28,4 +28,18 @@ en este espacio mencionamos las dependencias.</p>
 4. Package - com.CourseS.demso.web
 </pre>
 <h5>Configuración del proyecto Maven</h5>
-<blockquote class="imgur-embed-pub" lang="en" data-id="1aJwChH"><a href="https://imgur.com/1aJwChH">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></section>
+<a href="https://i.imgur.com/1aJwChH.png"><img src="https://i.imgur.com/1aJwChH.png"></a>
+<h4>Dependencia spring del pom.xml</h4>
+<pre >
+
+
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>5.2.21.RELEASE</version>
+    </dependency>
+
+
+</pre>
+
+
+</section>
