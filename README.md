@@ -11,7 +11,7 @@
 <li><a href="https://github.com/Dearone13/Spring/tree/consinject">Inyección de constructores-consinject</a></li>
 <li><a href="https://github.com/Dearone13/Spring/tree/autowired">Anotación @Autowired-autowired</a></li>
 <li><a href="https://github.com/Dearone13/Spring/tree/confiBean">Configuración de beans para anotaciones-confiBean</a></li>
-<li><a></a></li>
+<li><a href="https://github.com/Dearone13/Spring-Core/tree/SpringcoreAnno">Inyección de dependencia sin necesidad de @Bean.</a></li>
 </ul>
 </section>
 <section>
