@@ -3,7 +3,7 @@
 </header>
 <article>
 <section>
-<h3 style="color: #129490">¿Comó configuramos sin el uso del la anotación @Bean? </h3>
+<h3 style="color: #129490">¿Como configuramos sin el uso del la anotación @Bean? </h3>
 <p>Utilizamos las anotaciones @Component que nos permite crear Bean a partir de las clases que seleccionamos
 para invocar la inyección de dependencia, además de generar las instancias necesarias.Por otra parte, podemos utilizar 
 anotaciones como @Primary que definiran la prioridad para instanciar una clase sobre otra marcada con los @Component.
