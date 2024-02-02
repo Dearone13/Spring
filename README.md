@@ -27,18 +27,19 @@ innecesarios a ambientes especificos de desarollo. </p>
 <h3>Modulos.</h3>
 <p>El framework de Spring consiste alrededor de caracteristicas alrededor de 20 modulos. </p>
 <h4>Esto están agrupados en Core Container,Data Access/Integration, Web, AOP (Aspect Oriented Programming), Instrumentation, and Test.</h4>
-<ul>
 
+<ul>
 <li>Core Container: Consiste en el Core,Beans, Context, y expresión del lenguaje de modulos.</li>
 <ul> 
 <li>Core and Beans: proveen las partes fundamentales del framework, incluida IoC(Inversión de control) y inyección de dependencias.</li>
 <li>Context: El módulo está construido en una sólida base de los modulos de Core y Beans. Es un medio que facilita el acceso a los objetos, la internalización de paquetes, carga de recursos y transparencia de contextos.</li>
 <ul>
-<li>La  interface "ApplicationContext" es el foco centras de módulo Context.</li>
+<li>La interface "ApplicationContext" es el foco central de módulo Context.</li>
 </ul>
-<li></li>
+<li>Expression languages: Este modulo provee una fuerte expresión de lenguaje para consultar y manipular un objeto de grafo en tiempo de ejecución.Proporciona
+una configuración y obtención de valores de propiedades, asignación de propiedades, metodos de invocación, acceso al contexto de los arreglos, colección de indexs, operadores de logica y aritmetica, nombre de variables, y una recuperación de objetos del contenedor de Spring.</li>
 </ul>
-<li>Data Access/Integration:</li>
+<li>Data Access/Integration: Consiste en JDBC, ORM, OXM, JMS y modulos de transacción.</li>
 <li>Web:</li>
 <li> AOP (Aspect Oriented Programming):</li>
 
