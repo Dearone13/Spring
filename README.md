@@ -49,12 +49,19 @@ O/R mapping frameworks en combinación con otras características de Spring como
 <li>Transacción: Este módulo soporta un gestor de transacción progmatica de clases que implementen interfaces especiales
 y todos los POJOs(objetos de java simples y viejos)</li>
 </ul>
-<li>Web:</li>
+<li>Web:Consiste en la Web, Web-Servlet, Web-Struts, y Web-Portlet modulos.</li>
 <li> AOP (Aspect Oriented Programming):</li>
 
 </ul>
 <a><img src="https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/images/spring-overview.png"></a>
-
+<h3>¿Qué es el paradigma de programación orientada a aspectos?-POA</h3>
+<p>Divide la funcionalidad de la aplicación en diferentes modulos conocidos como aspectos, los aspectos se utilizan para funcionalidades
+transversales de una aplicación y su implemetación esta en un solo lugar.</p>
+<p></p>
+<h3>¿Qué es la inversión de control? IoC</h3>
+<p>La inversión de control es un principio de software que transfiere el control de las porciones del programa a un contenedor o Framework y este decide cuando invocar el control de nuestro codigo.Es mayormente usado en el paradigma de la programación
+orientada a aspectos.</p>
+<a href="https://www.youtube.com/watch?v=vFzP2SaMyA0&ab_channel=Udacity">Video de inversión de control(English) </a>
 </article>
 </section>
 <section>
