@@ -32,6 +32,11 @@ innecesarios a ambientes especificos de desarollo. </p>
 <li>Core Container: Consiste en el Core,Beans, Context, y expresión del lenguaje de modulos.</li>
 <ul> 
 <li>Core and Beans: proveen las partes fundamentales del framework, incluida IoC(Inversión de control) y inyección de dependencias.</li>
+<li>Context: El módulo está construido en una sólida base de los modulos de Core y Beans. Es un medio que facilita el acceso a los objetos, la internalización de paquetes, carga de recursos y transparencia de contextos.</li>
+<ul>
+<li>La  interface "ApplicationContext" es el foco centras de módulo Context.</li>
+</ul>
+<li></li>
 </ul>
 <li>Data Access/Integration:</li>
 <li>Web:</li>
