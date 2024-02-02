@@ -40,6 +40,15 @@ innecesarios a ambientes especificos de desarollo. </p>
 una configuración y obtención de valores de propiedades, asignación de propiedades, metodos de invocación, acceso al contexto de los arreglos, colección de indexs, operadores de logica y aritmetica, nombre de variables, y una recuperación de objetos del contenedor de Spring.</li>
 </ul>
 <li>Data Access/Integration: Consiste en JDBC, ORM, OXM, JMS y modulos de transacción.</li>
+<ul>
+<li>JDBC: Este módulo proporciona una capa de abstracción-JDBC que remueve la tediosa codificación y análisis de errores especificos del proveedor de la base de datos.</li>
+<li>ORM: Este módulo proporciona la integración de leyes para la relación de mapeo de APIS, incluyendo JPA, JDO, Hibernate y iBatis. Utilizando el paquete ORM puedes utilizar todo estos
+O/R mapping frameworks en combinación con otras características de Spring como una gestión de transacciones declarativa.</li>
+<li>OXM: Este módulo proporción una capa de abstracción que soporta la implementación al mapeo de objetos XML para JAXB, Castor, XMLBeans, JiBX y XStream.</li>
+<li>JMS(Servicio de mensajería de Java):Este módulo proporciona funcionalidades para producir y consumir mensajes.</li>
+<li>Transacción: Este módulo soporta un gestor de transacción progmatica de clases que implementen interfaces especiales
+y todos los POJOs(objetos de java simples y viejos)</li>
+</ul>
 <li>Web:</li>
 <li> AOP (Aspect Oriented Programming):</li>
 
